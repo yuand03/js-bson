@@ -1,3 +1,10 @@
+
+The fork will fix ---Error: Cannot find module '../build/Release/bson'
+
+npm install yuand03/js-bson#0.2.x
+
+
+
 Javascript + C++ BSON parser
 ============================
 
